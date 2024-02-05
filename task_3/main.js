@@ -1,18 +1,3 @@
-// const person = {
-//     name: "Бонифаций",
-//     age: 54,
-//     hobbies: ["Боулинг", "Смотреть в потолок"],
-//     contacts: {
-//         phone: [7790100, 7790150],
-//         email: ["bonifaciyrasputin@gmail.com", "protoieretneiromonach@gmail.com"],
-//         social: ["www.github.com", "www.vk.com"]
-//     }
-// };
-
-// console.log(`Имя - ${person["name"]}. Возраст - ${person["age"]}`);
-// console.log(`Его любимое занятие - ${person["hobbies"] [1]}`)
-// console.log(person["contacts"] ["email"] [1])
-
 const students = [
     {name: "Протоиерей", age: 17, serial: 1488, group: "ИС-2-2"},
     {name: "Мефодий", age: 18, serial: 1488, group: "ИС-2-2"},
